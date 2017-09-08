@@ -1,0 +1,8 @@
+prefix=/home/jose/catkin_ws_jab/install
+
+Name: intox_turtle
+Description: Description of intox_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jose/catkin_ws_jab/install/lib 
+Requires: 
